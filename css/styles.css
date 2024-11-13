@@ -1,4 +1,6 @@
-
+.hidden {
+    display: none;
+}
 /* Основні стилі для тіла сторінки */
 body {
     font-family: Roboto, sans-serif;
